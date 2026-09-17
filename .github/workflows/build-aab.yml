@@ -34,7 +34,6 @@ jobs:
           keyAlias=${{ secrets.ANDROID_KEY_ALIAS }}
           keyPassword=${{ secrets.ANDROID_KEY_PASSWORD }}
           EOF
-          cat android/keystore.properties
 
       - run: flutter pub get
       - run: flutter build appbundle --release
@@ -42,5 +41,5 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: aab
-          path: build/app/outputs/flutter-apk/app-release.aab
+          path: build/app/outputs/bundle/release/app-release.aab
           retention-days: 5
