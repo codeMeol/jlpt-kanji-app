@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'screens/study_screen.dart';
+import 'screens/home_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -25,7 +25,7 @@ class JlptKanjiApp extends StatelessWidget {
             backgroundColor: navy, foregroundColor: Colors.white),
         useMaterial3: true,
       ),
-      home: const StudyScreen(),
+      home: const HomeScreen(),
     );
   }
 }
