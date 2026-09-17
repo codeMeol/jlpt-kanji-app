@@ -13,3 +13,6 @@ WebView로 표시합니다.
 KANJIDIC2 기반 파생 데이터는 CC BY-SA 4.0으로 제공됩니다. 자세한 출처와
 현행 JLPT 급수 분류에 관한 고지는 `assets/legal/THIRD_PARTY_NOTICES.md`를
 참조하세요.
+
+전체 데이터·PenX·앱·검증·출시 흐름은
+[`docs/IMPLEMENTATION_PIPELINE.md`](docs/IMPLEMENTATION_PIPELINE.md)에 고정합니다.
