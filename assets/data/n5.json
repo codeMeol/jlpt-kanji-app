@@ -1,0 +1,2930 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-17T03:23:18.108Z",
+  "levelNoticeKo": "현행 JLPT는 공식 한자 목록을 공개하지 않습니다. 이 N5 분류는 KANJIDIC2의 구 JLPT 4급 정보를 기반으로 한 학습용 추정치입니다.",
+  "sources": [
+    {
+      "id": "KANJIDIC2",
+      "url": "https://www.edrdg.org/wiki/index.php/KANJIDIC_Project",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://www.edrdg.org/edrdg/licence.html"
+    }
+  ],
+  "cards": [
+    {
+      "id": "65E5",
+      "kanji": "日",
+      "level": "N5",
+      "meaningKo": "날 일",
+      "koreanReadings": [
+        "il"
+      ],
+      "onReadings": [
+        "ニチ",
+        "ジツ"
+      ],
+      "kunReadings": [
+        "ひ",
+        "-び",
+        "-か"
+      ],
+      "meaningsEn": [
+        "day",
+        "sun",
+        "Japan",
+        "counter for days"
+      ],
+      "strokeCount": 4,
+      "radicalNumber": 72,
+      "frequency": 1,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "4E00",
+      "kanji": "一",
+      "level": "N5",
+      "meaningKo": "한 일",
+      "koreanReadings": [
+        "il"
+      ],
+      "onReadings": [
+        "イチ",
+        "イツ"
+      ],
+      "kunReadings": [
+        "ひと-",
+        "ひと.つ"
+      ],
+      "meaningsEn": [
+        "one",
+        "one radical (no.1)"
+      ],
+      "strokeCount": 1,
+      "radicalNumber": 1,
+      "frequency": 2,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "56FD",
+      "kanji": "国",
+      "level": "N5",
+      "meaningKo": "나라 국",
+      "koreanReadings": [
+        "gug"
+      ],
+      "onReadings": [
+        "コク"
+      ],
+      "kunReadings": [
+        "くに"
+      ],
+      "meaningsEn": [
+        "country"
+      ],
+      "strokeCount": 8,
+      "radicalNumber": 31,
+      "frequency": 3,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "4F1A",
+      "kanji": "会",
+      "level": "N5",
+      "meaningKo": "모일 회",
+      "koreanReadings": [
+        "hoe",
+        "goe",
+        "gwal"
+      ],
+      "onReadings": [
+        "カイ",
+        "エ"
+      ],
+      "kunReadings": [
+        "あ.う",
+        "あ.わせる",
+        "あつ.まる"
+      ],
+      "meaningsEn": [
+        "meeting",
+        "meet",
+        "party",
+        "association",
+        "interview",
+        "join"
+      ],
+      "strokeCount": 6,
+      "radicalNumber": 9,
+      "frequency": 4,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "4EBA",
+      "kanji": "人",
+      "level": "N5",
+      "meaningKo": "사람 인",
+      "koreanReadings": [
+        "in"
+      ],
+      "onReadings": [
+        "ジン",
+        "ニン"
+      ],
+      "kunReadings": [
+        "ひと",
+        "-り",
+        "-と"
+      ],
+      "meaningsEn": [
+        "person"
+      ],
+      "strokeCount": 2,
+      "radicalNumber": 9,
+      "frequency": 5,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5E74",
+      "kanji": "年",
+      "level": "N5",
+      "meaningKo": "해 년",
+      "koreanReadings": [
+        "nyeon"
+      ],
+      "onReadings": [
+        "ネン"
+      ],
+      "kunReadings": [
+        "とし"
+      ],
+      "meaningsEn": [
+        "year",
+        "counter for years"
+      ],
+      "strokeCount": 6,
+      "radicalNumber": 51,
+      "frequency": 6,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5927",
+      "kanji": "大",
+      "level": "N5",
+      "meaningKo": "큰 대",
+      "koreanReadings": [
+        "dae",
+        "da",
+        "tae"
+      ],
+      "onReadings": [
+        "ダイ",
+        "タイ"
+      ],
+      "kunReadings": [
+        "おお-",
+        "おお.きい",
+        "-おお.いに"
+      ],
+      "meaningsEn": [
+        "large",
+        "big"
+      ],
+      "strokeCount": 3,
+      "radicalNumber": 37,
+      "frequency": 7,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5341",
+      "kanji": "十",
+      "level": "N5",
+      "meaningKo": "열 십",
+      "koreanReadings": [
+        "sib"
+      ],
+      "onReadings": [
+        "ジュウ",
+        "ジッ",
+        "ジュッ"
+      ],
+      "kunReadings": [
+        "とお",
+        "と",
+        "そ"
+      ],
+      "meaningsEn": [
+        "ten"
+      ],
+      "strokeCount": 2,
+      "radicalNumber": 24,
+      "frequency": 8,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "4E8C",
+      "kanji": "二",
+      "level": "N5",
+      "meaningKo": "두 이",
+      "koreanReadings": [
+        "i"
+      ],
+      "onReadings": [
+        "ニ",
+        "ジ"
+      ],
+      "kunReadings": [
+        "ふた",
+        "ふた.つ",
+        "ふたたび"
+      ],
+      "meaningsEn": [
+        "two",
+        "two radical (no. 7)"
+      ],
+      "strokeCount": 2,
+      "radicalNumber": 7,
+      "frequency": 9,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "672C",
+      "kanji": "本",
+      "level": "N5",
+      "meaningKo": "근본 본",
+      "koreanReadings": [
+        "bon"
+      ],
+      "onReadings": [
+        "ホン"
+      ],
+      "kunReadings": [
+        "もと"
+      ],
+      "meaningsEn": [
+        "book",
+        "present",
+        "main",
+        "origin",
+        "true",
+        "real",
+        "counter for long cylindrical things"
+      ],
+      "strokeCount": 5,
+      "radicalNumber": 75,
+      "frequency": 10,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "4E2D",
+      "kanji": "中",
+      "level": "N5",
+      "meaningKo": "가운데 중",
+      "koreanReadings": [
+        "jung"
+      ],
+      "onReadings": [
+        "チュウ"
+      ],
+      "kunReadings": [
+        "なか",
+        "うち",
+        "あた.る"
+      ],
+      "meaningsEn": [
+        "in",
+        "inside",
+        "middle",
+        "mean",
+        "center"
+      ],
+      "strokeCount": 4,
+      "radicalNumber": 2,
+      "frequency": 11,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "9577",
+      "kanji": "長",
+      "level": "N5",
+      "meaningKo": "길 장",
+      "koreanReadings": [
+        "jang"
+      ],
+      "onReadings": [
+        "チョウ"
+      ],
+      "kunReadings": [
+        "なが.い",
+        "おさ"
+      ],
+      "meaningsEn": [
+        "long",
+        "leader",
+        "superior",
+        "senior"
+      ],
+      "strokeCount": 8,
+      "radicalNumber": 168,
+      "frequency": 12,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "51FA",
+      "kanji": "出",
+      "level": "N5",
+      "meaningKo": "날 출",
+      "koreanReadings": [
+        "chul",
+        "chu"
+      ],
+      "onReadings": [
+        "シュツ",
+        "スイ"
+      ],
+      "kunReadings": [
+        "で.る",
+        "-で",
+        "だ.す",
+        "-だ.す",
+        "い.でる",
+        "い.だす"
+      ],
+      "meaningsEn": [
+        "exit",
+        "leave",
+        "go out",
+        "come out",
+        "put out",
+        "protrude"
+      ],
+      "strokeCount": 5,
+      "radicalNumber": 17,
+      "frequency": 13,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "4E09",
+      "kanji": "三",
+      "level": "N5",
+      "meaningKo": "석 삼",
+      "koreanReadings": [
+        "sam"
+      ],
+      "onReadings": [
+        "サン",
+        "ゾウ"
+      ],
+      "kunReadings": [
+        "み",
+        "み.つ",
+        "みっ.つ"
+      ],
+      "meaningsEn": [
+        "three"
+      ],
+      "strokeCount": 3,
+      "radicalNumber": 1,
+      "frequency": 14,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "6642",
+      "kanji": "時",
+      "level": "N5",
+      "meaningKo": "때 시",
+      "koreanReadings": [
+        "si"
+      ],
+      "onReadings": [
+        "ジ"
+      ],
+      "kunReadings": [
+        "とき",
+        "-どき"
+      ],
+      "meaningsEn": [
+        "time",
+        "hour"
+      ],
+      "strokeCount": 10,
+      "radicalNumber": 72,
+      "frequency": 16,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "884C",
+      "kanji": "行",
+      "level": "N5",
+      "meaningKo": "다닐 행",
+      "koreanReadings": [
+        "haeng",
+        "hang"
+      ],
+      "onReadings": [
+        "コウ",
+        "ギョウ",
+        "アン"
+      ],
+      "kunReadings": [
+        "い.く",
+        "ゆ.く",
+        "-ゆ.き",
+        "-ゆき",
+        "-い.き",
+        "-いき",
+        "おこな.う",
+        "おこ.なう"
+      ],
+      "meaningsEn": [
+        "going",
+        "journey",
+        "carry out",
+        "conduct",
+        "act",
+        "line",
+        "row",
+        "bank"
+      ],
+      "strokeCount": 6,
+      "radicalNumber": 144,
+      "frequency": 20,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "793E",
+      "kanji": "社",
+      "level": "N5",
+      "meaningKo": "모일 사",
+      "koreanReadings": [
+        "sa"
+      ],
+      "onReadings": [
+        "シャ"
+      ],
+      "kunReadings": [
+        "やしろ"
+      ],
+      "meaningsEn": [
+        "company",
+        "firm",
+        "office",
+        "association",
+        "shrine"
+      ],
+      "strokeCount": 7,
+      "radicalNumber": 113,
+      "frequency": 21,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "898B",
+      "kanji": "見",
+      "level": "N5",
+      "meaningKo": "볼 견",
+      "koreanReadings": [
+        "gyeon",
+        "hyeon"
+      ],
+      "onReadings": [
+        "ケン"
+      ],
+      "kunReadings": [
+        "み.る",
+        "み.える",
+        "み.せる"
+      ],
+      "meaningsEn": [
+        "see",
+        "hopes",
+        "chances",
+        "idea",
+        "opinion",
+        "look at",
+        "visible"
+      ],
+      "strokeCount": 7,
+      "radicalNumber": 147,
+      "frequency": 22,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "6708",
+      "kanji": "月",
+      "level": "N5",
+      "meaningKo": "달 월",
+      "koreanReadings": [
+        "weol"
+      ],
+      "onReadings": [
+        "ゲツ",
+        "ガツ"
+      ],
+      "kunReadings": [
+        "つき"
+      ],
+      "meaningsEn": [
+        "month",
+        "moon"
+      ],
+      "strokeCount": 4,
+      "radicalNumber": 74,
+      "frequency": 23,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5206",
+      "kanji": "分",
+      "level": "N5",
+      "meaningKo": "나눌 분",
+      "koreanReadings": [
+        "bun"
+      ],
+      "onReadings": [
+        "ブン",
+        "フン",
+        "ブ"
+      ],
+      "kunReadings": [
+        "わ.ける",
+        "わ.け",
+        "わ.かれる",
+        "わ.かる",
+        "わ.かつ"
+      ],
+      "meaningsEn": [
+        "part",
+        "minute of time",
+        "segment",
+        "share",
+        "degree",
+        "one's lot",
+        "duty",
+        "understand",
+        "know",
+        "rate",
+        "1%",
+        "chances",
+        "shaku/100"
+      ],
+      "strokeCount": 4,
+      "radicalNumber": 18,
+      "frequency": 24,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5F8C",
+      "kanji": "後",
+      "level": "N5",
+      "meaningKo": "뒤 후",
+      "koreanReadings": [
+        "hu"
+      ],
+      "onReadings": [
+        "ゴ",
+        "コウ"
+      ],
+      "kunReadings": [
+        "のち",
+        "うし.ろ",
+        "うしろ",
+        "あと",
+        "おく.れる"
+      ],
+      "meaningsEn": [
+        "behind",
+        "back",
+        "later"
+      ],
+      "strokeCount": 9,
+      "radicalNumber": 60,
+      "frequency": 26,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "524D",
+      "kanji": "前",
+      "level": "N5",
+      "meaningKo": "앞 전",
+      "koreanReadings": [
+        "jeon"
+      ],
+      "onReadings": [
+        "ゼン"
+      ],
+      "kunReadings": [
+        "まえ",
+        "-まえ"
+      ],
+      "meaningsEn": [
+        "in front",
+        "before"
+      ],
+      "strokeCount": 9,
+      "radicalNumber": 18,
+      "frequency": 27,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "751F",
+      "kanji": "生",
+      "level": "N5",
+      "meaningKo": "날 생",
+      "koreanReadings": [
+        "saeng"
+      ],
+      "onReadings": [
+        "セイ",
+        "ショウ"
+      ],
+      "kunReadings": [
+        "い.きる",
+        "い.かす",
+        "い.ける",
+        "う.まれる",
+        "うま.れる",
+        "う.まれ",
+        "うまれ",
+        "う.む",
+        "お.う",
+        "は.える",
+        "は.やす",
+        "き",
+        "なま",
+        "なま-",
+        "な.る",
+        "な.す",
+        "む.す",
+        "-う"
+      ],
+      "meaningsEn": [
+        "life",
+        "genuine",
+        "birth"
+      ],
+      "strokeCount": 5,
+      "radicalNumber": 100,
+      "frequency": 29,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "4E94",
+      "kanji": "五",
+      "level": "N5",
+      "meaningKo": "다섯 오",
+      "koreanReadings": [
+        "o"
+      ],
+      "onReadings": [
+        "ゴ"
+      ],
+      "kunReadings": [
+        "いつ",
+        "いつ.つ"
+      ],
+      "meaningsEn": [
+        "five"
+      ],
+      "strokeCount": 4,
+      "radicalNumber": 7,
+      "frequency": 31,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "9593",
+      "kanji": "間",
+      "level": "N5",
+      "meaningKo": "사이 간",
+      "koreanReadings": [
+        "gan"
+      ],
+      "onReadings": [
+        "カン",
+        "ケン"
+      ],
+      "kunReadings": [
+        "あいだ",
+        "ま",
+        "あい"
+      ],
+      "meaningsEn": [
+        "interval",
+        "space"
+      ],
+      "strokeCount": 12,
+      "radicalNumber": 169,
+      "frequency": 33,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "4E0A",
+      "kanji": "上",
+      "level": "N5",
+      "meaningKo": "위 상",
+      "koreanReadings": [
+        "sang"
+      ],
+      "onReadings": [
+        "ジョウ",
+        "ショウ",
+        "シャン"
+      ],
+      "kunReadings": [
+        "うえ",
+        "-うえ",
+        "うわ-",
+        "かみ",
+        "あ.げる",
+        "-あ.げる",
+        "あ.がる",
+        "-あ.がる",
+        "あ.がり",
+        "-あ.がり",
+        "のぼ.る",
+        "のぼ.り",
+        "のぼ.せる",
+        "のぼ.す",
+        "たてまつ.る"
+      ],
+      "meaningsEn": [
+        "above",
+        "up"
+      ],
+      "strokeCount": 3,
+      "radicalNumber": 1,
+      "frequency": 35,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "6771",
+      "kanji": "東",
+      "level": "N5",
+      "meaningKo": "동녘 동",
+      "koreanReadings": [
+        "dong"
+      ],
+      "onReadings": [
+        "トウ"
+      ],
+      "kunReadings": [
+        "ひがし"
+      ],
+      "meaningsEn": [
+        "east"
+      ],
+      "strokeCount": 8,
+      "radicalNumber": 75,
+      "frequency": 37,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "56DB",
+      "kanji": "四",
+      "level": "N5",
+      "meaningKo": "넉 사",
+      "koreanReadings": [
+        "sa"
+      ],
+      "onReadings": [
+        "シ"
+      ],
+      "kunReadings": [
+        "よ",
+        "よ.つ",
+        "よっ.つ",
+        "よん"
+      ],
+      "meaningsEn": [
+        "four"
+      ],
+      "strokeCount": 5,
+      "radicalNumber": 31,
+      "frequency": 47,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "4ECA",
+      "kanji": "今",
+      "level": "N5",
+      "meaningKo": "이제 금",
+      "koreanReadings": [
+        "geum"
+      ],
+      "onReadings": [
+        "コン",
+        "キン"
+      ],
+      "kunReadings": [
+        "いま"
+      ],
+      "meaningsEn": [
+        "now"
+      ],
+      "strokeCount": 4,
+      "radicalNumber": 9,
+      "frequency": 49,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "65B0",
+      "kanji": "新",
+      "level": "N5",
+      "meaningKo": "새 신",
+      "koreanReadings": [
+        "sin"
+      ],
+      "onReadings": [
+        "シン"
+      ],
+      "kunReadings": [
+        "あたら.しい",
+        "あら.た",
+        "あら-",
+        "にい-"
+      ],
+      "meaningsEn": [
+        "new"
+      ],
+      "strokeCount": 13,
+      "radicalNumber": 69,
+      "frequency": 51,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "91D1",
+      "kanji": "金",
+      "level": "N5",
+      "meaningKo": "쇠 금",
+      "koreanReadings": [
+        "gim",
+        "geum"
+      ],
+      "onReadings": [
+        "キン",
+        "コン",
+        "ゴン"
+      ],
+      "kunReadings": [
+        "かね",
+        "かな-",
+        "-がね"
+      ],
+      "meaningsEn": [
+        "gold"
+      ],
+      "strokeCount": 8,
+      "radicalNumber": 167,
+      "frequency": 53,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "4E5D",
+      "kanji": "九",
+      "level": "N5",
+      "meaningKo": "아홉 구",
+      "koreanReadings": [
+        "gu",
+        "gyu"
+      ],
+      "onReadings": [
+        "キュウ",
+        "ク"
+      ],
+      "kunReadings": [
+        "ここの",
+        "ここの.つ"
+      ],
+      "meaningsEn": [
+        "nine"
+      ],
+      "strokeCount": 2,
+      "radicalNumber": 5,
+      "frequency": 55,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5165",
+      "kanji": "入",
+      "level": "N5",
+      "meaningKo": "들 입",
+      "koreanReadings": [
+        "ib"
+      ],
+      "onReadings": [
+        "ニュウ",
+        "ジュ"
+      ],
+      "kunReadings": [
+        "い.る",
+        "-い.る",
+        "-い.り",
+        "い.れる",
+        "-い.れ",
+        "はい.る"
+      ],
+      "meaningsEn": [
+        "enter",
+        "insert"
+      ],
+      "strokeCount": 2,
+      "radicalNumber": 11,
+      "frequency": 56,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "7ACB",
+      "kanji": "立",
+      "level": "N5",
+      "meaningKo": "설 립",
+      "koreanReadings": [
+        "rib"
+      ],
+      "onReadings": [
+        "リツ",
+        "リュウ",
+        "リットル"
+      ],
+      "kunReadings": [
+        "た.つ",
+        "-た.つ",
+        "た.ち-",
+        "た.てる",
+        "-た.てる",
+        "た.て-",
+        "たて-",
+        "-た.て",
+        "-だ.て",
+        "-だ.てる"
+      ],
+      "meaningsEn": [
+        "stand up",
+        "rise",
+        "set up",
+        "erect"
+      ],
+      "strokeCount": 5,
+      "radicalNumber": 117,
+      "frequency": 58,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "624B",
+      "kanji": "手",
+      "level": "N5",
+      "meaningKo": "손 수",
+      "koreanReadings": [
+        "su"
+      ],
+      "onReadings": [
+        "シュ",
+        "ズ"
+      ],
+      "kunReadings": [
+        "て",
+        "て-",
+        "-て",
+        "た-"
+      ],
+      "meaningsEn": [
+        "hand"
+      ],
+      "strokeCount": 4,
+      "radicalNumber": 64,
+      "frequency": 60,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5B66",
+      "kanji": "学",
+      "level": "N5",
+      "meaningKo": "배울 학",
+      "koreanReadings": [
+        "hag"
+      ],
+      "onReadings": [
+        "ガク"
+      ],
+      "kunReadings": [
+        "まな.ぶ"
+      ],
+      "meaningsEn": [
+        "study",
+        "learning",
+        "science"
+      ],
+      "strokeCount": 8,
+      "radicalNumber": 39,
+      "frequency": 63,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "9AD8",
+      "kanji": "高",
+      "level": "N5",
+      "meaningKo": "높을 고",
+      "koreanReadings": [
+        "go"
+      ],
+      "onReadings": [
+        "コウ"
+      ],
+      "kunReadings": [
+        "たか.い",
+        "たか",
+        "-だか",
+        "たか.まる",
+        "たか.める"
+      ],
+      "meaningsEn": [
+        "tall",
+        "high",
+        "expensive"
+      ],
+      "strokeCount": 10,
+      "radicalNumber": 189,
+      "frequency": 65,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5186",
+      "kanji": "円",
+      "level": "N5",
+      "meaningKo": "둥글 원",
+      "koreanReadings": [
+        "weon"
+      ],
+      "onReadings": [
+        "エン"
+      ],
+      "kunReadings": [
+        "まる.い",
+        "まる",
+        "まど",
+        "まど.か",
+        "まろ.やか"
+      ],
+      "meaningsEn": [
+        "circle",
+        "yen",
+        "round"
+      ],
+      "strokeCount": 4,
+      "radicalNumber": 13,
+      "frequency": 69,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5B50",
+      "kanji": "子",
+      "level": "N5",
+      "meaningKo": "아들 자",
+      "koreanReadings": [
+        "ja"
+      ],
+      "onReadings": [
+        "シ",
+        "ス",
+        "ツ"
+      ],
+      "kunReadings": [
+        "こ",
+        "-こ",
+        "ね"
+      ],
+      "meaningsEn": [
+        "child",
+        "sign of the rat",
+        "11PM-1AM",
+        "first sign of Chinese zodiac"
+      ],
+      "strokeCount": 3,
+      "radicalNumber": 39,
+      "frequency": 72,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "76EE",
+      "kanji": "目",
+      "level": "N5",
+      "meaningKo": "눈 목",
+      "koreanReadings": [
+        "mog"
+      ],
+      "onReadings": [
+        "モク",
+        "ボク"
+      ],
+      "kunReadings": [
+        "め",
+        "-め",
+        "ま-"
+      ],
+      "meaningsEn": [
+        "eye",
+        "class",
+        "look",
+        "insight",
+        "experience",
+        "care",
+        "favor"
+      ],
+      "strokeCount": 5,
+      "radicalNumber": 109,
+      "frequency": 76,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5916",
+      "kanji": "外",
+      "level": "N5",
+      "meaningKo": "바깥 외",
+      "koreanReadings": [
+        "oe"
+      ],
+      "onReadings": [
+        "ガイ",
+        "ゲ"
+      ],
+      "kunReadings": [
+        "そと",
+        "ほか",
+        "はず.す",
+        "はず.れる",
+        "と-"
+      ],
+      "meaningsEn": [
+        "outside"
+      ],
+      "strokeCount": 5,
+      "radicalNumber": 36,
+      "frequency": 81,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "8A00",
+      "kanji": "言",
+      "level": "N5",
+      "meaningKo": "말씀 언",
+      "koreanReadings": [
+        "eon"
+      ],
+      "onReadings": [
+        "ゲン",
+        "ゴン"
+      ],
+      "kunReadings": [
+        "い.う",
+        "こと"
+      ],
+      "meaningsEn": [
+        "say",
+        "word"
+      ],
+      "strokeCount": 7,
+      "radicalNumber": 149,
+      "frequency": 83,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "516B",
+      "kanji": "八",
+      "level": "N5",
+      "meaningKo": "여덟 팔",
+      "koreanReadings": [
+        "pal"
+      ],
+      "onReadings": [
+        "ハチ",
+        "ハツ"
+      ],
+      "kunReadings": [
+        "や",
+        "や.つ",
+        "やっ.つ",
+        "よう"
+      ],
+      "meaningsEn": [
+        "eight",
+        "eight radical (no. 12)"
+      ],
+      "strokeCount": 2,
+      "radicalNumber": 12,
+      "frequency": 92,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "516D",
+      "kanji": "六",
+      "level": "N5",
+      "meaningKo": "여섯 육",
+      "koreanReadings": [
+        "ryug"
+      ],
+      "onReadings": [
+        "ロク",
+        "リク"
+      ],
+      "kunReadings": [
+        "む",
+        "む.つ",
+        "むっ.つ",
+        "むい"
+      ],
+      "meaningsEn": [
+        "six"
+      ],
+      "strokeCount": 4,
+      "radicalNumber": 12,
+      "frequency": 93,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "4E0B",
+      "kanji": "下",
+      "level": "N5",
+      "meaningKo": "아래 하",
+      "koreanReadings": [
+        "ha"
+      ],
+      "onReadings": [
+        "カ",
+        "ゲ"
+      ],
+      "kunReadings": [
+        "した",
+        "しも",
+        "もと",
+        "さ.げる",
+        "さ.がる",
+        "くだ.る",
+        "くだ.り",
+        "くだ.す",
+        "-くだ.す",
+        "くだ.さる",
+        "お.ろす",
+        "お.りる"
+      ],
+      "meaningsEn": [
+        "below",
+        "down",
+        "descend",
+        "give",
+        "low",
+        "inferior"
+      ],
+      "strokeCount": 3,
+      "radicalNumber": 1,
+      "frequency": 97,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "6765",
+      "kanji": "来",
+      "level": "N5",
+      "meaningKo": "올 래",
+      "koreanReadings": [
+        "rae"
+      ],
+      "onReadings": [
+        "ライ",
+        "タイ"
+      ],
+      "kunReadings": [
+        "く.る",
+        "きた.る",
+        "きた.す",
+        "き.たす",
+        "き.たる",
+        "き",
+        "こ"
+      ],
+      "meaningsEn": [
+        "come",
+        "due",
+        "next",
+        "cause",
+        "become"
+      ],
+      "strokeCount": 7,
+      "radicalNumber": 75,
+      "frequency": 102,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "6C17",
+      "kanji": "気",
+      "level": "N5",
+      "meaningKo": "기운 기",
+      "koreanReadings": [
+        "gi"
+      ],
+      "onReadings": [
+        "キ",
+        "ケ"
+      ],
+      "kunReadings": [
+        "いき",
+        "き"
+      ],
+      "meaningsEn": [
+        "spirit",
+        "mind",
+        "air",
+        "atmosphere",
+        "mood"
+      ],
+      "strokeCount": 6,
+      "radicalNumber": 84,
+      "frequency": 113,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5C0F",
+      "kanji": "小",
+      "level": "N5",
+      "meaningKo": "작을 소",
+      "koreanReadings": [
+        "so"
+      ],
+      "onReadings": [
+        "ショウ"
+      ],
+      "kunReadings": [
+        "ちい.さい",
+        "こ-",
+        "お-",
+        "さ-"
+      ],
+      "meaningsEn": [
+        "little",
+        "small"
+      ],
+      "strokeCount": 3,
+      "radicalNumber": 42,
+      "frequency": 114,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "4E03",
+      "kanji": "七",
+      "level": "N5",
+      "meaningKo": "일곱 칠",
+      "koreanReadings": [
+        "chil"
+      ],
+      "onReadings": [
+        "シチ"
+      ],
+      "kunReadings": [
+        "なな",
+        "なな.つ",
+        "なの"
+      ],
+      "meaningsEn": [
+        "seven"
+      ],
+      "strokeCount": 2,
+      "radicalNumber": 1,
+      "frequency": 115,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5C71",
+      "kanji": "山",
+      "level": "N5",
+      "meaningKo": "메 산",
+      "koreanReadings": [
+        "san"
+      ],
+      "onReadings": [
+        "サン",
+        "セン"
+      ],
+      "kunReadings": [
+        "やま"
+      ],
+      "meaningsEn": [
+        "mountain"
+      ],
+      "strokeCount": 3,
+      "radicalNumber": 46,
+      "frequency": 131,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "8A71",
+      "kanji": "話",
+      "level": "N5",
+      "meaningKo": "말씀 화",
+      "koreanReadings": [
+        "hwa"
+      ],
+      "onReadings": [
+        "ワ"
+      ],
+      "kunReadings": [
+        "はな.す",
+        "はなし"
+      ],
+      "meaningsEn": [
+        "tale",
+        "talk"
+      ],
+      "strokeCount": 13,
+      "radicalNumber": 149,
+      "frequency": 134,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "591A",
+      "kanji": "多",
+      "level": "N5",
+      "meaningKo": "많을 다",
+      "koreanReadings": [
+        "da"
+      ],
+      "onReadings": [
+        "タ"
+      ],
+      "kunReadings": [
+        "おお.い",
+        "まさ.に",
+        "まさ.る"
+      ],
+      "meaningsEn": [
+        "many",
+        "frequent",
+        "much"
+      ],
+      "strokeCount": 6,
+      "radicalNumber": 36,
+      "frequency": 139,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5B89",
+      "kanji": "安",
+      "level": "N5",
+      "meaningKo": "편안할 안",
+      "koreanReadings": [
+        "an"
+      ],
+      "onReadings": [
+        "アン"
+      ],
+      "kunReadings": [
+        "やす.い",
+        "やす.まる",
+        "やす",
+        "やす.らか"
+      ],
+      "meaningsEn": [
+        "relax",
+        "cheap",
+        "low",
+        "quiet",
+        "rested",
+        "contented",
+        "peaceful"
+      ],
+      "strokeCount": 6,
+      "radicalNumber": 40,
+      "frequency": 144,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5973",
+      "kanji": "女",
+      "level": "N5",
+      "meaningKo": "여자 녀",
+      "koreanReadings": [
+        "nyeo",
+        "yeo"
+      ],
+      "onReadings": [
+        "ジョ",
+        "ニョ",
+        "ニョウ"
+      ],
+      "kunReadings": [
+        "おんな",
+        "め"
+      ],
+      "meaningsEn": [
+        "woman",
+        "female"
+      ],
+      "strokeCount": 3,
+      "radicalNumber": 38,
+      "frequency": 151,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5317",
+      "kanji": "北",
+      "level": "N5",
+      "meaningKo": "북녘 북",
+      "koreanReadings": [
+        "bug",
+        "bae"
+      ],
+      "onReadings": [
+        "ホク"
+      ],
+      "kunReadings": [
+        "きた"
+      ],
+      "meaningsEn": [
+        "north"
+      ],
+      "strokeCount": 5,
+      "radicalNumber": 21,
+      "frequency": 153,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5348",
+      "kanji": "午",
+      "level": "N5",
+      "meaningKo": "낮 오",
+      "koreanReadings": [
+        "o"
+      ],
+      "onReadings": [
+        "ゴ"
+      ],
+      "kunReadings": [
+        "うま"
+      ],
+      "meaningsEn": [
+        "noon",
+        "sign of the horse",
+        "11AM-1PM",
+        "seventh sign of Chinese zodiac"
+      ],
+      "strokeCount": 4,
+      "radicalNumber": 24,
+      "frequency": 154,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "767E",
+      "kanji": "百",
+      "level": "N5",
+      "meaningKo": "일백 백",
+      "koreanReadings": [
+        "baeg",
+        "maeg"
+      ],
+      "onReadings": [
+        "ヒャク",
+        "ビャク"
+      ],
+      "kunReadings": [
+        "もも"
+      ],
+      "meaningsEn": [
+        "hundred"
+      ],
+      "strokeCount": 6,
+      "radicalNumber": 106,
+      "frequency": 163,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "66F8",
+      "kanji": "書",
+      "level": "N5",
+      "meaningKo": "글 서",
+      "koreanReadings": [
+        "seo"
+      ],
+      "onReadings": [
+        "ショ"
+      ],
+      "kunReadings": [
+        "か.く",
+        "-が.き",
+        "-がき"
+      ],
+      "meaningsEn": [
+        "write"
+      ],
+      "strokeCount": 10,
+      "radicalNumber": 73,
+      "frequency": 169,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5148",
+      "kanji": "先",
+      "level": "N5",
+      "meaningKo": "먼저 선",
+      "koreanReadings": [
+        "seon"
+      ],
+      "onReadings": [
+        "セン"
+      ],
+      "kunReadings": [
+        "さき",
+        "ま.ず"
+      ],
+      "meaningsEn": [
+        "before",
+        "ahead",
+        "previous",
+        "future",
+        "precedence"
+      ],
+      "strokeCount": 6,
+      "radicalNumber": 10,
+      "frequency": 173,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "540D",
+      "kanji": "名",
+      "level": "N5",
+      "meaningKo": "이름 명",
+      "koreanReadings": [
+        "myeong"
+      ],
+      "onReadings": [
+        "メイ",
+        "ミョウ"
+      ],
+      "kunReadings": [
+        "な",
+        "-な"
+      ],
+      "meaningsEn": [
+        "name",
+        "noted",
+        "distinguished",
+        "reputation"
+      ],
+      "strokeCount": 6,
+      "radicalNumber": 30,
+      "frequency": 177,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5DDD",
+      "kanji": "川",
+      "level": "N5",
+      "meaningKo": "내 천",
+      "koreanReadings": [
+        "cheon"
+      ],
+      "onReadings": [
+        "セン"
+      ],
+      "kunReadings": [
+        "かわ"
+      ],
+      "meaningsEn": [
+        "stream",
+        "river",
+        "river or three-stroke river radical (no. 47)"
+      ],
+      "strokeCount": 3,
+      "radicalNumber": 47,
+      "frequency": 181,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5343",
+      "kanji": "千",
+      "level": "N5",
+      "meaningKo": "일천 천",
+      "koreanReadings": [
+        "cheon"
+      ],
+      "onReadings": [
+        "セン"
+      ],
+      "kunReadings": [
+        "ち"
+      ],
+      "meaningsEn": [
+        "thousand"
+      ],
+      "strokeCount": 3,
+      "radicalNumber": 24,
+      "frequency": 195,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "9053",
+      "kanji": "道",
+      "level": "N5",
+      "meaningKo": "길 도",
+      "koreanReadings": [
+        "do"
+      ],
+      "onReadings": [
+        "ドウ",
+        "トウ"
+      ],
+      "kunReadings": [
+        "みち",
+        "いう"
+      ],
+      "meaningsEn": [
+        "road-way",
+        "street",
+        "district",
+        "journey",
+        "course",
+        "moral",
+        "teachings"
+      ],
+      "strokeCount": 12,
+      "radicalNumber": 162,
+      "frequency": 207,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "6C34",
+      "kanji": "水",
+      "level": "N5",
+      "meaningKo": "물 수",
+      "koreanReadings": [
+        "su"
+      ],
+      "onReadings": [
+        "スイ"
+      ],
+      "kunReadings": [
+        "みず",
+        "みず-"
+      ],
+      "meaningsEn": [
+        "water"
+      ],
+      "strokeCount": 4,
+      "radicalNumber": 85,
+      "frequency": 223,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "534A",
+      "kanji": "半",
+      "level": "N5",
+      "meaningKo": "반 반",
+      "koreanReadings": [
+        "ban"
+      ],
+      "onReadings": [
+        "ハン"
+      ],
+      "kunReadings": [
+        "なか.ば"
+      ],
+      "meaningsEn": [
+        "half",
+        "middle",
+        "odd number",
+        "semi-",
+        "part-"
+      ],
+      "strokeCount": 5,
+      "radicalNumber": 24,
+      "frequency": 224,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "7537",
+      "kanji": "男",
+      "level": "N5",
+      "meaningKo": "사내 남",
+      "koreanReadings": [
+        "nam"
+      ],
+      "onReadings": [
+        "ダン",
+        "ナン"
+      ],
+      "kunReadings": [
+        "おとこ",
+        "お"
+      ],
+      "meaningsEn": [
+        "male"
+      ],
+      "strokeCount": 7,
+      "radicalNumber": 102,
+      "frequency": 240,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "897F",
+      "kanji": "西",
+      "level": "N5",
+      "meaningKo": "서녘 서",
+      "koreanReadings": [
+        "seo"
+      ],
+      "onReadings": [
+        "セイ",
+        "サイ",
+        "ス"
+      ],
+      "kunReadings": [
+        "にし"
+      ],
+      "meaningsEn": [
+        "west",
+        "Spain"
+      ],
+      "strokeCount": 6,
+      "radicalNumber": 146,
+      "frequency": 259,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "96FB",
+      "kanji": "電",
+      "level": "N5",
+      "meaningKo": "번개 전",
+      "koreanReadings": [
+        "jeon"
+      ],
+      "onReadings": [
+        "デン"
+      ],
+      "kunReadings": [],
+      "meaningsEn": [
+        "electricity"
+      ],
+      "strokeCount": 13,
+      "radicalNumber": 173,
+      "frequency": 268,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "53E3",
+      "kanji": "口",
+      "level": "N5",
+      "meaningKo": "입 구",
+      "koreanReadings": [
+        "gu"
+      ],
+      "onReadings": [
+        "コウ",
+        "ク"
+      ],
+      "kunReadings": [
+        "くち"
+      ],
+      "meaningsEn": [
+        "mouth"
+      ],
+      "strokeCount": 3,
+      "radicalNumber": 30,
+      "frequency": 284,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5C11",
+      "kanji": "少",
+      "level": "N5",
+      "meaningKo": "적을 소",
+      "koreanReadings": [
+        "so"
+      ],
+      "onReadings": [
+        "ショウ"
+      ],
+      "kunReadings": [
+        "すく.ない",
+        "すこ.し"
+      ],
+      "meaningsEn": [
+        "few",
+        "little"
+      ],
+      "strokeCount": 4,
+      "radicalNumber": 42,
+      "frequency": 287,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "6821",
+      "kanji": "校",
+      "level": "N5",
+      "meaningKo": "학교 교",
+      "koreanReadings": [
+        "gyo",
+        "hyo"
+      ],
+      "onReadings": [
+        "コウ",
+        "キョウ"
+      ],
+      "kunReadings": [],
+      "meaningsEn": [
+        "exam",
+        "school",
+        "printing",
+        "proof",
+        "correction"
+      ],
+      "strokeCount": 10,
+      "radicalNumber": 75,
+      "frequency": 294,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "8A9E",
+      "kanji": "語",
+      "level": "N5",
+      "meaningKo": "말씀 어",
+      "koreanReadings": [
+        "eo"
+      ],
+      "onReadings": [
+        "ゴ"
+      ],
+      "kunReadings": [
+        "かた.る",
+        "かた.らう"
+      ],
+      "meaningsEn": [
+        "word",
+        "speech",
+        "language"
+      ],
+      "strokeCount": 14,
+      "radicalNumber": 149,
+      "frequency": 301,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "7A7A",
+      "kanji": "空",
+      "level": "N5",
+      "meaningKo": "빌 공",
+      "koreanReadings": [
+        "gong"
+      ],
+      "onReadings": [
+        "クウ"
+      ],
+      "kunReadings": [
+        "そら",
+        "あ.く",
+        "あ.き",
+        "あ.ける",
+        "から",
+        "す.く",
+        "す.かす",
+        "むな.しい"
+      ],
+      "meaningsEn": [
+        "empty",
+        "sky",
+        "void",
+        "vacant",
+        "vacuum"
+      ],
+      "strokeCount": 8,
+      "radicalNumber": 116,
+      "frequency": 304,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "571F",
+      "kanji": "土",
+      "level": "N5",
+      "meaningKo": "흙 토",
+      "koreanReadings": [
+        "to",
+        "du"
+      ],
+      "onReadings": [
+        "ド",
+        "ト"
+      ],
+      "kunReadings": [
+        "つち"
+      ],
+      "meaningsEn": [
+        "soil",
+        "earth",
+        "ground",
+        "Turkey"
+      ],
+      "strokeCount": 3,
+      "radicalNumber": 32,
+      "frequency": 307,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "6728",
+      "kanji": "木",
+      "level": "N5",
+      "meaningKo": "나무 목",
+      "koreanReadings": [
+        "mog",
+        "mo"
+      ],
+      "onReadings": [
+        "ボク",
+        "モク"
+      ],
+      "kunReadings": [
+        "き",
+        "こ-"
+      ],
+      "meaningsEn": [
+        "tree",
+        "wood"
+      ],
+      "strokeCount": 4,
+      "radicalNumber": 75,
+      "frequency": 317,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "805E",
+      "kanji": "聞",
+      "level": "N5",
+      "meaningKo": "들을 문",
+      "koreanReadings": [
+        "mun"
+      ],
+      "onReadings": [
+        "ブン",
+        "モン"
+      ],
+      "kunReadings": [
+        "き.く",
+        "き.こえる"
+      ],
+      "meaningsEn": [
+        "hear",
+        "ask",
+        "listen"
+      ],
+      "strokeCount": 14,
+      "radicalNumber": 128,
+      "frequency": 319,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "98DF",
+      "kanji": "食",
+      "level": "N5",
+      "meaningKo": "먹을 식",
+      "koreanReadings": [
+        "sig",
+        "sa"
+      ],
+      "onReadings": [
+        "ショク",
+        "ジキ"
+      ],
+      "kunReadings": [
+        "く.う",
+        "く.らう",
+        "た.べる",
+        "は.む"
+      ],
+      "meaningsEn": [
+        "eat",
+        "food"
+      ],
+      "strokeCount": 9,
+      "radicalNumber": 184,
+      "frequency": 328,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "8ECA",
+      "kanji": "車",
+      "level": "N5",
+      "meaningKo": "수레 차",
+      "koreanReadings": [
+        "cha",
+        "geo"
+      ],
+      "onReadings": [
+        "シャ"
+      ],
+      "kunReadings": [
+        "くるま"
+      ],
+      "meaningsEn": [
+        "car"
+      ],
+      "strokeCount": 7,
+      "radicalNumber": 159,
+      "frequency": 333,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "4F55",
+      "kanji": "何",
+      "level": "N5",
+      "meaningKo": "어찌 하",
+      "koreanReadings": [
+        "ha"
+      ],
+      "onReadings": [
+        "カ"
+      ],
+      "kunReadings": [
+        "なに",
+        "なん",
+        "なに-",
+        "なん-"
+      ],
+      "meaningsEn": [
+        "what"
+      ],
+      "strokeCount": 7,
+      "radicalNumber": 9,
+      "frequency": 340,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5357",
+      "kanji": "南",
+      "level": "N5",
+      "meaningKo": "남녘 남",
+      "koreanReadings": [
+        "nam"
+      ],
+      "onReadings": [
+        "ナン",
+        "ナ"
+      ],
+      "kunReadings": [
+        "みなみ"
+      ],
+      "meaningsEn": [
+        "south"
+      ],
+      "strokeCount": 9,
+      "radicalNumber": 24,
+      "frequency": 341,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "8DB3",
+      "kanji": "足",
+      "level": "N5",
+      "meaningKo": "발 족",
+      "koreanReadings": [
+        "jog",
+        "ju"
+      ],
+      "onReadings": [
+        "ソク"
+      ],
+      "kunReadings": [
+        "あし",
+        "た.りる",
+        "た.る",
+        "た.す"
+      ],
+      "meaningsEn": [
+        "leg",
+        "foot",
+        "be sufficient",
+        "counter for pairs of footwear"
+      ],
+      "strokeCount": 7,
+      "radicalNumber": 157,
+      "frequency": 343,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "4E07",
+      "kanji": "万",
+      "level": "N5",
+      "meaningKo": "일만 만",
+      "koreanReadings": [
+        "man",
+        "mug"
+      ],
+      "onReadings": [
+        "マン",
+        "バン"
+      ],
+      "kunReadings": [
+        "よろず"
+      ],
+      "meaningsEn": [
+        "ten thousand",
+        "10,000"
+      ],
+      "strokeCount": 3,
+      "radicalNumber": 1,
+      "frequency": 375,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5E97",
+      "kanji": "店",
+      "level": "N5",
+      "meaningKo": "가게 점",
+      "koreanReadings": [
+        "jeom"
+      ],
+      "onReadings": [
+        "テン"
+      ],
+      "kunReadings": [
+        "みせ",
+        "たな"
+      ],
+      "meaningsEn": [
+        "store",
+        "shop"
+      ],
+      "strokeCount": 8,
+      "radicalNumber": 53,
+      "frequency": 378,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "6BCE",
+      "kanji": "毎",
+      "level": "N5",
+      "meaningKo": "매양 매",
+      "koreanReadings": [
+        "mae"
+      ],
+      "onReadings": [
+        "マイ"
+      ],
+      "kunReadings": [
+        "ごと",
+        "-ごと.に"
+      ],
+      "meaningsEn": [
+        "every"
+      ],
+      "strokeCount": 6,
+      "radicalNumber": 80,
+      "frequency": 436,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "767D",
+      "kanji": "白",
+      "level": "N5",
+      "meaningKo": "흰 백",
+      "koreanReadings": [
+        "baeg",
+        "bae"
+      ],
+      "onReadings": [
+        "ハク",
+        "ビャク"
+      ],
+      "kunReadings": [
+        "しろ",
+        "しら-",
+        "しろ.い"
+      ],
+      "meaningsEn": [
+        "white"
+      ],
+      "strokeCount": 5,
+      "radicalNumber": 106,
+      "frequency": 483,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "53E4",
+      "kanji": "古",
+      "level": "N5",
+      "meaningKo": "옛 고",
+      "koreanReadings": [
+        "go"
+      ],
+      "onReadings": [
+        "コ"
+      ],
+      "kunReadings": [
+        "ふる.い",
+        "ふる-",
+        "-ふる.す"
+      ],
+      "meaningsEn": [
+        "old"
+      ],
+      "strokeCount": 5,
+      "radicalNumber": 30,
+      "frequency": 509,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5929",
+      "kanji": "天",
+      "level": "N5",
+      "meaningKo": "하늘 천",
+      "koreanReadings": [
+        "cheon"
+      ],
+      "onReadings": [
+        "テン"
+      ],
+      "kunReadings": [
+        "あまつ",
+        "あめ",
+        "あま-"
+      ],
+      "meaningsEn": [
+        "heavens",
+        "sky",
+        "imperial"
+      ],
+      "strokeCount": 4,
+      "radicalNumber": 37,
+      "frequency": 512,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "8CB7",
+      "kanji": "買",
+      "level": "N5",
+      "meaningKo": "살 매",
+      "koreanReadings": [
+        "mae"
+      ],
+      "onReadings": [
+        "バイ"
+      ],
+      "kunReadings": [
+        "か.う"
+      ],
+      "meaningsEn": [
+        "buy"
+      ],
+      "strokeCount": 12,
+      "radicalNumber": 154,
+      "frequency": 520,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "9031",
+      "kanji": "週",
+      "level": "N5",
+      "meaningKo": "주일 주",
+      "koreanReadings": [
+        "ju"
+      ],
+      "onReadings": [
+        "シュウ"
+      ],
+      "kunReadings": [],
+      "meaningsEn": [
+        "week"
+      ],
+      "strokeCount": 11,
+      "radicalNumber": 162,
+      "frequency": 540,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "6BCD",
+      "kanji": "母",
+      "level": "N5",
+      "meaningKo": "어머니 모",
+      "koreanReadings": [
+        "mo"
+      ],
+      "onReadings": [
+        "ボ"
+      ],
+      "kunReadings": [
+        "はは",
+        "も"
+      ],
+      "meaningsEn": [
+        "mother"
+      ],
+      "strokeCount": 5,
+      "radicalNumber": 80,
+      "frequency": 570,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "706B",
+      "kanji": "火",
+      "level": "N5",
+      "meaningKo": "불 화",
+      "koreanReadings": [
+        "hwa"
+      ],
+      "onReadings": [
+        "カ"
+      ],
+      "kunReadings": [
+        "ひ",
+        "-び",
+        "ほ-"
+      ],
+      "meaningsEn": [
+        "fire"
+      ],
+      "strokeCount": 4,
+      "radicalNumber": 86,
+      "frequency": 574,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "82B1",
+      "kanji": "花",
+      "level": "N5",
+      "meaningKo": "꽃 화",
+      "koreanReadings": [
+        "hwa"
+      ],
+      "onReadings": [
+        "カ",
+        "ケ"
+      ],
+      "kunReadings": [
+        "はな"
+      ],
+      "meaningsEn": [
+        "flower"
+      ],
+      "strokeCount": 7,
+      "radicalNumber": 140,
+      "frequency": 578,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "53F3",
+      "kanji": "右",
+      "level": "N5",
+      "meaningKo": "오른 우",
+      "koreanReadings": [
+        "u"
+      ],
+      "onReadings": [
+        "ウ",
+        "ユウ"
+      ],
+      "kunReadings": [
+        "みぎ"
+      ],
+      "meaningsEn": [
+        "right"
+      ],
+      "strokeCount": 5,
+      "radicalNumber": 30,
+      "frequency": 602,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "8AAD",
+      "kanji": "読",
+      "level": "N5",
+      "meaningKo": "읽을 독",
+      "koreanReadings": [
+        "dog",
+        "du"
+      ],
+      "onReadings": [
+        "ドク",
+        "トク",
+        "トウ"
+      ],
+      "kunReadings": [
+        "よ.む",
+        "-よ.み"
+      ],
+      "meaningsEn": [
+        "read"
+      ],
+      "strokeCount": 14,
+      "radicalNumber": 149,
+      "frequency": 618,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "53CB",
+      "kanji": "友",
+      "level": "N5",
+      "meaningKo": "벗 우",
+      "koreanReadings": [
+        "u"
+      ],
+      "onReadings": [
+        "ユウ"
+      ],
+      "kunReadings": [
+        "とも"
+      ],
+      "meaningsEn": [
+        "friend"
+      ],
+      "strokeCount": 4,
+      "radicalNumber": 29,
+      "frequency": 622,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "5DE6",
+      "kanji": "左",
+      "level": "N5",
+      "meaningKo": "왼 좌",
+      "koreanReadings": [
+        "jwa"
+      ],
+      "onReadings": [
+        "サ",
+        "シャ"
+      ],
+      "kunReadings": [
+        "ひだり"
+      ],
+      "meaningsEn": [
+        "left"
+      ],
+      "strokeCount": 5,
+      "radicalNumber": 48,
+      "frequency": 630,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "4F11",
+      "kanji": "休",
+      "level": "N5",
+      "meaningKo": "쉴 휴",
+      "koreanReadings": [
+        "hyu"
+      ],
+      "onReadings": [
+        "キュウ"
+      ],
+      "kunReadings": [
+        "やす.む",
+        "やす.まる",
+        "やす.める"
+      ],
+      "meaningsEn": [
+        "rest",
+        "day off",
+        "retire",
+        "sleep"
+      ],
+      "strokeCount": 6,
+      "radicalNumber": 9,
+      "frequency": 642,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "7236",
+      "kanji": "父",
+      "level": "N5",
+      "meaningKo": "아버지 부",
+      "koreanReadings": [
+        "bu",
+        "bo"
+      ],
+      "onReadings": [
+        "フ"
+      ],
+      "kunReadings": [
+        "ちち"
+      ],
+      "meaningsEn": [
+        "father"
+      ],
+      "strokeCount": 4,
+      "radicalNumber": 88,
+      "frequency": 646,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "99C5",
+      "kanji": "駅",
+      "level": "N5",
+      "meaningKo": "역 역",
+      "koreanReadings": [
+        "yeog"
+      ],
+      "onReadings": [
+        "エキ"
+      ],
+      "kunReadings": [],
+      "meaningsEn": [
+        "station"
+      ],
+      "strokeCount": 14,
+      "radicalNumber": 187,
+      "frequency": 724,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "96E8",
+      "kanji": "雨",
+      "level": "N5",
+      "meaningKo": "비 우",
+      "koreanReadings": [
+        "u"
+      ],
+      "onReadings": [
+        "ウ"
+      ],
+      "kunReadings": [
+        "あめ",
+        "あま-",
+        "-さめ"
+      ],
+      "meaningsEn": [
+        "rain"
+      ],
+      "strokeCount": 8,
+      "radicalNumber": 173,
+      "frequency": 950,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "98F2",
+      "kanji": "飲",
+      "level": "N5",
+      "meaningKo": "마실 음",
+      "koreanReadings": [
+        "eum"
+      ],
+      "onReadings": [
+        "イン",
+        "オン"
+      ],
+      "kunReadings": [
+        "の.む",
+        "-の.み"
+      ],
+      "meaningsEn": [
+        "drink",
+        "smoke",
+        "take"
+      ],
+      "strokeCount": 12,
+      "radicalNumber": 184,
+      "frequency": 969,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "9B5A",
+      "kanji": "魚",
+      "level": "N5",
+      "meaningKo": "물고기 어",
+      "koreanReadings": [
+        "eo"
+      ],
+      "onReadings": [
+        "ギョ"
+      ],
+      "kunReadings": [
+        "うお",
+        "さかな",
+        "-ざかな"
+      ],
+      "meaningsEn": [
+        "fish"
+      ],
+      "strokeCount": 11,
+      "radicalNumber": 195,
+      "frequency": 1208,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    },
+    {
+      "id": "8033",
+      "kanji": "耳",
+      "level": "N5",
+      "meaningKo": "귀 이",
+      "koreanReadings": [
+        "i"
+      ],
+      "onReadings": [
+        "ジ"
+      ],
+      "kunReadings": [
+        "みみ"
+      ],
+      "meaningsEn": [
+        "ear"
+      ],
+      "strokeCount": 6,
+      "radicalNumber": 128,
+      "frequency": 1328,
+      "sourceRefs": [
+        "KANJIDIC2"
+      ]
+    }
+  ]
+}
