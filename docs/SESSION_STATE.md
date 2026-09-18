@@ -45,18 +45,19 @@
 4. 현재 미커밋 파일을 임의 삭제하거나 덮어쓰지 않음
 5. 모바일 테스트 전 `docs/ARTEMIS_TESTING.md`에서 현재 blocker와 증거 기준 확인
 
-### ARTEMIS 현재 상태 (2026-09-18 09:44 KST 실측)
+### ARTEMIS 현재 상태 (2026-09-18 10:09 KST 실측)
 
 - ✅ `/home/meol7485/artemis`, 공식 Google 저장소, v1.0, commit `371aa6d`
 - ✅ Python 3.13.15 가상환경과 uv 0.12.10
 - ✅ Google provider 및 Gemini 모델 계열이 config에 선택됨
 - ✅ Windows ADB에서 `emulator-5554`와 JLPT 패키지 확인
 - ✅ ARTEMIS doctor에서도 emulator connected
-- ✅ Helper v6 설치·활성화
+- ✅ Helper v6 설치·활성화·protocol 2 응답 확인
+- ✅ WSL→Windows 원격 ADB forward 주소 처리 보정
 - ✅ OpenClaw MCP 설정·rules 설치, stdio 도구 목록 검증
 - ✅ Artemis UI/server 실행 (`http://localhost:8000`)
 - ❌ Gemini/Google API key 없음
-- ⏳ 실행 중 Gateway reload 후 MCP 도구 노출 확인 필요
+- ⏳ Google 키 설정 후 Gateway reload 및 현재 세션 MCP 도구 노출 재확인 필요
 - ❌ JLPT ARTEMIS AI trace 없음
 - ⚠️ scrcpy 없음; 영상 replay 제한
 - ⚠️ PATH 기본 OpenClaw CLI 2026.9.2는 구버전; 2026.9.4 절대 경로 사용

@@ -75,7 +75,9 @@ ADB listen 주소를 다시 확인한다.
 
 - ARTEMIS Multimodal LLM API key 없음 — 유일한 필수 blocker
 - ARTEMIS Web UI/server는 `http://localhost:8000`에서 실행 중
-- Accessibility Helper v6 설치·활성화됨; task 외 probe에서는 아직 응답하지 않음
+- Accessibility Helper v6 설치·활성화됨; protocol 2 응답 확인
+- Windows 원격 ADB가 만든 forward를 WSL loopback으로 조회하던 문제는 로컬
+  Artemis의 `helper_manager.py`가 원격 ADB host를 사용하도록 보정함
 - OpenClaw MCP 설정·rules 설치 완료, config validation과 MCP stdio 도구 5개 확인
 - 현재 실행 중인 OpenClaw Gateway에는 아직 reload/restart가 필요함
 - `scrcpy` 없음: 화면 스트리밍·동영상 replay는 제한됨
