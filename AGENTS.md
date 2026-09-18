@@ -14,6 +14,7 @@ git log -8 --oneline
 sed -n '1,260p' docs/SESSION_STATE.md
 sed -n '1,320p' docs/PRODUCT_ROADMAP.md
 sed -n '1,240p' docs/IMPLEMENTATION_PIPELINE.md
+sed -n '1,320p' docs/ARTEMIS_TESTING.md
 ```
 
 Then inspect the source files involved in the next unchecked roadmap item. Do
@@ -80,6 +81,11 @@ For Android entrypoint, plugin, WebView, signing, or release changes, also:
 4. Exercise home, study reveal, previous/next, persistence, quiz completion,
    offline fallback, and restart.
 5. Verify the APK signature and record artifact checksum/size.
+
+Use Google ARTEMIS as the AI mobile test runner after its model credential and
+ADB device checks pass. Follow `docs/ARTEMIS_TESTING.md`. A direct ADB script is
+a valid deterministic fallback, but label it as direct ADB testing. Never call
+it an ARTEMIS run unless an ARTEMIS trace and final result exist.
 
 Automated unit tests do not prove that an Android release starts. Do not call a
 release "normal", "fixed", or "ready" without the applicable evidence above.

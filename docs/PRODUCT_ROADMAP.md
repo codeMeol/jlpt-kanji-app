@@ -71,12 +71,14 @@ WebView는 관리자가 만든 긴 설명을 재사용하는 보조 화면이다
 - [ ] JLPT 앱 전용 개인정보처리방침 공개 URL 준비
 - [ ] 앱 내 KANJIDIC2 출처·CC BY-SA·비공식 급수 고지 연결
 - [ ] 실제 release APK의 시작·학습·시험·재시작·오프라인 회귀 검증
+- [ ] ARTEMIS의 Google 모델 인증과 ADB device 연결을 완료하고 release trace 보존
 - [ ] README, 파이프라인, 체크포인트를 실제 구현과 일치시킴
 
 완료 기준:
 
 - 저장소와 GitHub Actions에 평문 signing secret이 없다.
 - 서명된 release APK가 실제 기기 또는 에뮬레이터에서 핵심 시나리오를 통과한다.
+- 직접 ADB 결과와 ARTEMIS AI 결과가 분리 기록되고, ARTEMIS 완료 주장에는 trace가 있다.
 - 개인정보처리방침과 라이선스 페이지가 외부 HTTPS 200으로 접근된다.
 
 ### P1 — 카드 콘텐츠 파이프라인 정상화

@@ -1,6 +1,6 @@
 # JLPT 한자 앱 — 세션 연속성 체크포인트
 
-마지막 업데이트: 2026-09-18 08:53 GMT+9
+마지막 업데이트: 2026-09-18 09:18 GMT+9
 
 ## 현재 진행 상태
 
@@ -19,15 +19,19 @@
 12. ✅ GitHub Release `v1.0.0`에 APK와 AAB 업로드 확인
 13. ✅ 현재 구조 비교 및 제품·수익화 로드맵 (`docs/PRODUCT_ROADMAP.md`)
 14. ✅ Fallback AI 실행 지침 (`AGENTS.md`)
+15. ✅ ARTEMIS 설치·모델·ADB 환경 실측 및 실행 규약 (`docs/ARTEMIS_TESTING.md`)
 
 ### 남은 것
 1. P0: `android/keystore.properties` Git 추적 제거 및 노출/회전 판단
 2. P0: `aab.zip`, `android/build/` 생성물 정리와 ignore 확인
 3. P0: JLPT 앱 전용 개인정보처리방침·라이선스 공개 링크 준비
-4. P1: PenX 이미지 앞면 + 답 공개 + 선택적 상세 WebView 구조 구현
-5. P1: PenX runtime endpoint와 캐시/fallback 검증
-6. Play Console 업로드 (bundle ID: `com.codemeol.jlptkanji`)
-7. 스토어 자료(아이콘, 스크린샷, 설명) 준비
+4. P0: ARTEMIS용 Google 모델 키를 로컬 `artemis init`으로 설정
+5. P0: Windows ADB와 Linux ARTEMIS ADB 경로를 통일해 emulator 인식
+6. P0: OpenClaw MCP 등록 후 ARTEMIS Flash/Pro strict trace 생성
+7. P1: PenX 이미지 앞면 + 답 공개 + 선택적 상세 WebView 구조 구현
+8. P1: PenX runtime endpoint와 캐시/fallback 검증
+9. Play Console 업로드 (bundle ID: `com.codemeol.jlptkanji`)
+10. 스토어 자료(아이콘, 스크린샷, 설명) 준비
 
 ### 다음 작업자가 시작할 위치
 
@@ -35,11 +39,25 @@
 2. `docs/PRODUCT_ROADMAP.md`의 P0부터 수행
 3. signing 파일의 내용은 출력하지 말고 Git 추적 여부만 다룸
 4. 현재 미커밋 파일을 임의 삭제하거나 덮어쓰지 않음
+5. 모바일 테스트 전 `docs/ARTEMIS_TESTING.md`에서 현재 blocker와 증거 기준 확인
+
+### ARTEMIS 현재 상태 (2026-09-18 09:18 KST 실측)
+
+- ✅ `/home/meol7485/artemis`, 공식 Google 저장소, v1.0, commit `371aa6d`
+- ✅ Python 3.13.15 가상환경과 uv 0.12.10
+- ✅ Google provider 및 Gemini 모델 계열이 config에 선택됨
+- ✅ Windows ADB에서 `emulator-5554`와 JLPT 패키지 확인
+- ❌ Gemini/Google API key 없음
+- ❌ Linux ARTEMIS ADB endpoint에는 device 없음
+- ❌ ARTEMIS server stopped, Helper 미설치, JLPT trace 없음
+- ❌ OpenClaw/Codex MCP 등록 확인 안 됨
+- ⚠️ scrcpy 없음; 영상 replay 제한
+- 결론: 이전 UI 회귀는 직접 ADB 테스트이며 ARTEMIS AI 테스트 완료가 아님
 
 ### 현재 확인된 작업 트리
 
 - 문서 작업: `README.md`, `docs/SESSION_STATE.md` 수정
-- 문서 작업: `AGENTS.md`, `docs/PRODUCT_ROADMAP.md` 추가
+- 문서 작업: `AGENTS.md`, `docs/PRODUCT_ROADMAP.md`, `docs/ARTEMIS_TESTING.md` 추가
 - 추적 안 됨: `aab.zip`, `android/build/`
 
 ## 파일 경로

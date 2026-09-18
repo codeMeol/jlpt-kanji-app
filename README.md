@@ -23,3 +23,6 @@ KANJIDIC2 기반 파생 데이터는 CC BY-SA 4.0으로 제공됩니다. 자세�
 [`docs/PRODUCT_ROADMAP.md`](docs/PRODUCT_ROADMAP.md)를 참조하세요. 작업을
 이어받는 에이전트는 루트의 [`AGENTS.md`](AGENTS.md)와
 [`docs/SESSION_STATE.md`](docs/SESSION_STATE.md)를 먼저 확인해야 합니다.
+
+Google ARTEMIS 기반 모바일 회귀 테스트의 실제 환경 상태, 연결 절차, 증거
+기준은 [`docs/ARTEMIS_TESTING.md`](docs/ARTEMIS_TESTING.md)에 기록합니다.
