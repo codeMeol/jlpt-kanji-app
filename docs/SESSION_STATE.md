@@ -1,6 +1,6 @@
 # JLPT 한자 앱 — 세션 연속성 체크포인트
 
-마지막 업데이트: 2026-09-18 09:18 GMT+9
+마지막 업데이트: 2026-09-18 09:44 GMT+9
 
 ## 현재 진행 상태
 
@@ -20,14 +20,18 @@
 13. ✅ 현재 구조 비교 및 제품·수익화 로드맵 (`docs/PRODUCT_ROADMAP.md`)
 14. ✅ Fallback AI 실행 지침 (`AGENTS.md`)
 15. ✅ ARTEMIS 설치·모델·ADB 환경 실측 및 실행 규약 (`docs/ARTEMIS_TESTING.md`)
+16. ✅ Windows ADB와 ARTEMIS 연결; `emulator-5554` doctor OK
+17. ✅ ARTEMIS Helper v6 설치·활성화
+18. ✅ OpenClaw MCP config/rules 설치 및 MCP stdio 도구 5개 확인
+19. ✅ Artemis Web UI `http://localhost:8000` 실행
 
 ### 남은 것
 1. P0: `android/keystore.properties` Git 추적 제거 및 노출/회전 판단
 2. P0: `aab.zip`, `android/build/` 생성물 정리와 ignore 확인
 3. P0: JLPT 앱 전용 개인정보처리방침·라이선스 공개 링크 준비
-4. P0: ARTEMIS용 Google 모델 키를 로컬 `artemis init`으로 설정
-5. P0: Windows ADB와 Linux ARTEMIS ADB 경로를 통일해 emulator 인식
-6. P0: OpenClaw MCP 등록 후 ARTEMIS Flash/Pro strict trace 생성
+4. P0: ARTEMIS UI 또는 로컬 `artemis init`으로 Google 모델 키 설정
+5. P0: OpenClaw Gateway reload/restart 후 현재 세션에서 MCP 도구 노출 확인
+6. P0: ARTEMIS Flash/Pro strict trace 생성
 7. P1: PenX 이미지 앞면 + 답 공개 + 선택적 상세 WebView 구조 구현
 8. P1: PenX runtime endpoint와 캐시/fallback 검증
 9. Play Console 업로드 (bundle ID: `com.codemeol.jlptkanji`)
@@ -41,17 +45,21 @@
 4. 현재 미커밋 파일을 임의 삭제하거나 덮어쓰지 않음
 5. 모바일 테스트 전 `docs/ARTEMIS_TESTING.md`에서 현재 blocker와 증거 기준 확인
 
-### ARTEMIS 현재 상태 (2026-09-18 09:18 KST 실측)
+### ARTEMIS 현재 상태 (2026-09-18 09:44 KST 실측)
 
 - ✅ `/home/meol7485/artemis`, 공식 Google 저장소, v1.0, commit `371aa6d`
 - ✅ Python 3.13.15 가상환경과 uv 0.12.10
 - ✅ Google provider 및 Gemini 모델 계열이 config에 선택됨
 - ✅ Windows ADB에서 `emulator-5554`와 JLPT 패키지 확인
+- ✅ ARTEMIS doctor에서도 emulator connected
+- ✅ Helper v6 설치·활성화
+- ✅ OpenClaw MCP 설정·rules 설치, stdio 도구 목록 검증
+- ✅ Artemis UI/server 실행 (`http://localhost:8000`)
 - ❌ Gemini/Google API key 없음
-- ❌ Linux ARTEMIS ADB endpoint에는 device 없음
-- ❌ ARTEMIS server stopped, Helper 미설치, JLPT trace 없음
-- ❌ OpenClaw/Codex MCP 등록 확인 안 됨
+- ⏳ 실행 중 Gateway reload 후 MCP 도구 노출 확인 필요
+- ❌ JLPT ARTEMIS AI trace 없음
 - ⚠️ scrcpy 없음; 영상 replay 제한
+- ⚠️ PATH 기본 OpenClaw CLI 2026.9.2는 구버전; 2026.9.4 절대 경로 사용
 - 결론: 이전 UI 회귀는 직접 ADB 테스트이며 ARTEMIS AI 테스트 완료가 아님
 
 ### 현재 확인된 작업 트리

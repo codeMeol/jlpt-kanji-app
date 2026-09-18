@@ -1,6 +1,6 @@
 # ARTEMIS 모바일 테스트 환경·실행 규약
 
-마지막 실측: 2026-09-18 09:18 KST
+마지막 실측: 2026-09-18 09:44 KST
 
 이 문서는 Google ARTEMIS를 JLPT 앱의 AI 기반 모바일 테스트 러너로 사용하는
 방법과 현재 환경의 실제 연결 상태를 기록한다. 설치 사실, ADB 수동 테스트,
@@ -65,23 +65,39 @@ uv run artemis init
 - Windows SDK:
   `C:\Users\hjy74\AppData\Local\Android\Sdk`
 
-Windows `adb.exe devices -l`에서는 에뮬레이터가 `device`로 확인됐다. 그러나
-ARTEMIS가 사용하는 Linux ADB endpoint `127.0.0.1:5037`은 별도 Linux ADB
-서버이고 연결된 기기 목록이 비어 있다. 따라서 `artemis doctor`와
-`artemis helper status`는 현재 기기를 찾지 못한다.
+Windows ADB server를 `0.0.0.0:5037`에 listen하도록 시작하고 ARTEMIS의
+`ADB_HOST`를 현재 WSL gateway `172.29.64.1`로 지정했다. `adbutils`와
+`artemis doctor` 모두 `emulator-5554`를 connected로 확인한다. WSL gateway
+주소는 WSL 재시작 후 바뀔 수 있으므로 연결 실패 시 `ip route`와 Windows
+ADB listen 주소를 다시 확인한다.
 
 ### 현재 미완료 상태
 
-- ARTEMIS Multimodal LLM API key 없음
-- ARTEMIS에서 인식하는 Android device 없음
-- ARTEMIS Web UI/server는 stopped
-- Accessibility Helper 미설치
-- OpenClaw/Codex 전역 MCP 등록 확인 안 됨
+- ARTEMIS Multimodal LLM API key 없음 — 유일한 필수 blocker
+- ARTEMIS Web UI/server는 `http://localhost:8000`에서 실행 중
+- Accessibility Helper v6 설치·활성화됨; task 외 probe에서는 아직 응답하지 않음
+- OpenClaw MCP 설정·rules 설치 완료, config validation과 MCP stdio 도구 5개 확인
+- 현재 실행 중인 OpenClaw Gateway에는 아직 reload/restart가 필요함
 - `scrcpy` 없음: 화면 스트리밍·동영상 replay는 제한됨
 - `traces/`에 완료된 JLPT ARTEMIS 실행 기록 없음
 
 그러므로 과거의 에뮬레이터 UI 확인은 **직접 ADB 회귀 테스트**이며,
-**ARTEMIS AI 회귀 테스트 통과로 기록하면 안 된다.**
+**ARTEMIS AI 회귀 테스트 통과로 기록하면 안 된다.** 첫 AI trace는 로컬에서
+Google 키를 설정한 뒤 생성한다.
+
+### 2026-09-18 연결 작업 기록
+
+- OpenClaw config backup:
+  `/home/meol7485/.openclaw/backups/openclaw.json.pre-artemis-20260918-0920`
+- OpenClaw MCP config/rules 설치:
+  `/home/meol7485/.openclaw/openclaw.json`, `OPENCLAW.md`, `rules/artemis.md`
+- MCP stdio 초기화 성공; 노출 도구:
+  `mobile_get_device_state`, `mobile_diagnose`, `mobile_inspect_trace`,
+  `mobile_manage_task`, `mobile_run_task`
+- `mobile_diagnose`: 필수 점검 4/5 통과, Google 모델 키만 필수 blocker
+- OpenClaw CLI는 Gateway와 동일한 `2026.9.4` 경로를 사용해야 함:
+  `/home/meol7485/.nvm/versions/node/v24.16.0/bin/openclaw`
+- PATH의 구버전 `2026.9.2` CLI는 현재 schema 17 DB를 읽지 못하므로 사용 금지
 
 ## 3. 연결 완료 절차
 
